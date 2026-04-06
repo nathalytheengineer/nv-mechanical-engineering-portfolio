@@ -113,6 +113,8 @@ That is where the dissertation's biomimetic theme becomes useful. The vehicle is
 
 **Figure 1. Freya GT-E visual package assembled from exported FreeCAD PDF drawings.**
 
+![Freya side view](freecad-images/carsidepng.png)
+
 ### 4.2 Core Design Parameters Used in the Revised Model
 
 | Parameter | Value used in model | Comment |
