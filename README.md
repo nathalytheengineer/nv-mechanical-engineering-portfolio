@@ -5,7 +5,7 @@
 **April 2026**
 
 **By Andreina Virunurm and AI assisted writing.**
-![EV Cncept by AV side view](freecad-images/carsidepng.png)---
+![EV Cncept by AV side view](freecad-images/evplusplus.png)---
 
 ## Abstract
 
