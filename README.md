@@ -5,8 +5,7 @@
 **April 2026**
 
 **By Andreina Virunurm and AI assisted writing.**
-
----
+![EV Cncept by AV side view](freecad-images/carsidepng.png)---
 
 ## Abstract
 
@@ -132,6 +131,11 @@ That is where the dissertation's biomimetic theme becomes useful. The vehicle is
 These retained parameters matter because the dissertation is not attempting to move the goalposts after the rerun. The same concept definitions that motivated the original Freya platform are preserved. What changes is the evidentiary discipline applied to them. The design story and the simulation story now align.
 
 **Figure 2. Orthographic views used to preserve the original vehicle packaging context.**
+![Freya side view](freecad-images/carsidepng.png)
+![Freya sketch view](freecad-images/carsketch.pdf)
+![Freya front view](freecad-images/cartofrontppng.png)
+![Freya top view](freecad-images/cartoppng.png)
+![Freya side view](freecad-images/carsidepng.png)
 
 ---
 
