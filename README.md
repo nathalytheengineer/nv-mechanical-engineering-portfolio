@@ -132,7 +132,6 @@ These retained parameters matter because the dissertation is not attempting to m
 
 **Figure 2. Orthographic views used to preserve the original vehicle packaging context.**
 ![Freya side view](freecad-images/carsidepng.png)
-![Freya sketch view](freecad-images/carsketch.pdf)
 ![Freya front view](freecad-images/cartofrontppng.png)
 ![Freya top view](freecad-images/cartoppng.png)
 ![Freya side view](freecad-images/carsidepng.png)
